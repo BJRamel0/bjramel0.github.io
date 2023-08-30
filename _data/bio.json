@@ -9,15 +9,15 @@
     "summary": "I am studying for a B.B.A. in Management and Information Technology Management in the Department of Management and Industrial Relations and Information Technology Management Department at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/bjramel0" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "BjRamel0", "url": "http://github.com/bjramel0" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "www.linkedin.com/in/bj-angelo-ramel-4bb56b266" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Data structures" },
+    { "name": "Business Intelligence" },
+    { "name": "Computer Programing Languages" },
+    { "name": "Interface Structure" },
     { "name": "3D Graphics" }
   ],
   "skills": [
@@ -33,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management and Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-25",
       "endDate": "Present",
       "courses": [
       ]
