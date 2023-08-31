@@ -9,5 +9,5 @@ labels:
   - E0
   - MIS
 ---
-My name is BJ Angelo Ramel, and I plan on double majoring in Management and Management Information Systems (MIS). Initially, I intended to major in Management and International Business, but MIS was always on my mind. Due to my prior experience in programming languages and interest in design and technology, I thought MIS would be a good fit for my interests.
+My name is BJ Angelo Ramel, and I plan on double majoring in Management and Management Information Systems (MIS). Initially, I intended to major in Management and International Business, but MIS was always on my mind. Due to my prior experience in programming languages and my interests in design and technology, I thought MIS would be a good fit for me.
 
